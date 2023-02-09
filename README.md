@@ -14,19 +14,11 @@ Atendiendo estudiantes de PFLC y TecTijuana:
 - ✨ Me gusta aplicar la tecnología en diferentes ámbitos, tanto a nivel laboral como personal
 
 
+Horario de clases
 
-Ejemplo Tablas en MD
-
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
-
-Guias:
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
-PARA CREAR TABLAS
-Cooltext.com
-
-https://www.tablesgenerator.com/markdown_tables.
+| Hora          | Lunes                       | Martes                      | Miércoles                   | Jueves                      |   |   |   |   |   |
+|---------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|---|---|---|---|---|
+| 15:00 - 16:00 | Ingeniería Del Conocimiento | Ingeniería Del Conocimiento | Ingeniería Del Conocimiento | Ingeniería Del Conocimiento |   |   |   |   |   |
+| 18:00 - 19:00 | Negocios Electrónicos II    | Negocios Electrónicos II    | Negocios Electrónicos II    | Negocios Electrónicos II    |   |   |   |   |   |
+| 19:00 - 20:00 | Auditoría En TI             | Auditoría En TI             | Auditoría En TI             | Auditoría En TI             |   |   |   |   |   |
+|               |                             |                             |                             |                             |   |   |   |   |   |
